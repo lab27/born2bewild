@@ -1,6 +1,7 @@
 // Define defaults for each variable.
 
-$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+// $base-font-family: "Raleway", Helvetica, Arial, sans-serif !default;
+$base-font-family: "Raleway",sans-serif;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -66,7 +67,9 @@ a:hover {
 @import
   "minima/base",
   "minima/layout",
-  "minima/syntax-highlighting"
+  "minima/syntax-highlighting",
+  "comdev",
+  "buttons"
 ;
 
 .videoWrapper {
@@ -83,6 +86,16 @@ a:hover {
 	left: 0;
 	width: 100%;
 	height: 100%;
+}
+
+.section {
+  // padding: $spacing-unit;
+  // &.dark {
+  //   background: yellow;
+  // }
+  // &.light {
+  //   background: orange;
+  // }
 }
 
 .top-section {
