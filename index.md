@@ -1,9 +1,6 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-title: "Born To Be Wild"
-currentAmount: 456
+title: Born To Be Wild
+currentAmount: 674
 topvideoID: CvXN9ezGpzs
 ---
