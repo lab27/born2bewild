@@ -18,7 +18,7 @@ email: email@born2bewild.org
 description: > # this means to ignore newlines until "baseurl:"
   A collaboration between Nicola Walpen and BOSF, this video diary aims
   to bring awareness around the lives and habitat of the Orangutans of Borneo.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/born2bewild" # the subpath of your site, e.g. /blog
 url: "http://born2bewild.org" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
