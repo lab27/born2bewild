@@ -1,6 +1,6 @@
 ---
 layout: home
 title: Born To Be Wild
-currentAmount: 674
+currentAmount: 676
 topvideoID: CvXN9ezGpzs
 ---
