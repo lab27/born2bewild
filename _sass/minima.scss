@@ -168,3 +168,17 @@ a:hover {
     background: yellow;
   }
 }
+
+body.about {
+  img {
+    max-width: 50%;
+    float:left;
+    margin-right: 12px;
+  @include media-query($on-palm) {
+    max-width: 100%;
+    float:none;
+    margin: 0;
+  }
+  }
+
+}
