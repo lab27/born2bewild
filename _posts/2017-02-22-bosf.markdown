@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "BOSF & BOS Schweiz"
+date:   2017-02-22 08:15:33 +0100
+categories: body
+subsite: has
+---
+
+This is the first paragraph.
+
+<!--more-->
+
+This is the second paragraph and should be the only thing left on the post page.
